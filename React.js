@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css'; // Arquivo de estilo CSS para estilização
+import './Css'; // Arquivo de estilo CSS para estilização
 
 function NavBar() {
   const [selectedItem, setSelectedItem] = useState('Home');
